@@ -1,3 +1,5 @@
+<a href="https://colab.research.google.com/github/c1t1zen1/SkyReels-V1-For-Colab/blob/main/SkyReels_V1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" width="200px"/>
+
 <p align="center">
   <img src="docs/assets/logo2.png" alt="SkyReels Logo" width="50%">
 </p>
